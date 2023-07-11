@@ -33,4 +33,5 @@ Enter the following in the terminal:
 This would ensure that the script is ran once every 2 weeks, reference from: [stackoverflow](https://stackoverflow.com/questions/46109358/how-to-create-a-cron-expression-for-every-2-weeks), the `~/out.txt 2>&1` is for debugging purposes, reference from: [unix stackoverflow](https://unix.stackexchange.com/questions/99263/what-does-21-in-this-command-mean)
 
 6. Get notified when your summaries are done once every week!
-![image](https://github.com/zejian99/script-automator/assets/100704949/62931d3b-49f7-467a-8924-eb1ac0850bde)
+
+![Screenshot 2023-07-11 at 22 05 07](https://github.com/zejian99/script-automator/assets/100704949/1e7c0ff7-088d-48c6-8f5e-d04e482c6bbf)
