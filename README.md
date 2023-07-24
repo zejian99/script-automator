@@ -34,6 +34,6 @@ This would ensure that the script is ran once every 2 weeks, reference from: [st
 
 #### Note: If you run crontab jobs locally on your machine, if your machine is on sleep mode or turned off, if the timing is missed, the job will be skipped. Make sure to have your computer on if you wish to run it locally. If not, there are other services such as AWS that you can explore (paid, though!).
 
-6. Get notified when your summaries are done once every week!
+6. Get notified when your summaries are done!
 
 ![Screenshot 2023-07-11 at 22 05 07](https://github.com/zejian99/script-automator/assets/100704949/1e7c0ff7-088d-48c6-8f5e-d04e482c6bbf)
